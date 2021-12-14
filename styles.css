@@ -48,8 +48,13 @@ h1 span {
   margin-top: 40px;
 }
 
-.stats span {
-  display: block;
+.stats h2 {
+  /* display: block; */
+  font-weight: bold;
+  font-size: 15px;
+}
+.stats p {
+  color: hsla(0, 0%, 100%, 0.75);
 }
 
 .attribution {
@@ -80,10 +85,5 @@ h1 span {
 
   .st {
     margin: 12px 0;
-  }
-
-  .st span {
-    font-weight: 700px;
-    font-size: 15px;
   }
 }
