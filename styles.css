@@ -71,6 +71,7 @@ h1 span {
     display: flex;
     flex-direction: column-reverse;
     text-align: center;
+    margin-top: 10px;
   }
   h1 {
     font-size: 20px;
